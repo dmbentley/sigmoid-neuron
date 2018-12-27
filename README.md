@@ -1,4 +1,4 @@
-#sigmoid-neuron
+# sigmoid-neuron
 
 Inside the human brain is a neural network composed of around 100 billion neurons. In this neural network, each neuron is connected to many other neurons. 
 
