@@ -8,6 +8,6 @@ We will create our neuron so that it has **weights** and a **bias**. Each of the
 
 The Jupyter notebook will create the following plots. 
 
-![Alt text](bias.png?raw=true "Title")
+![Alt text](./images/bias.png?raw=true "Title")
 
-![Alt text](neuron-output.png?raw=true "Title")
+![Alt text](./images/neuron-output.png?raw=true "Title")
